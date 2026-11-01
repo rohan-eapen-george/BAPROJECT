@@ -1,0 +1,1 @@
+{"columns":["model","method","test_brier_score"],"rows":[{"model":"Decision tree","method":"isotonic","test_brier_score":0.14319346726004856},{"model":"Decision tree","method":"sigmoid","test_brier_score":0.14324207736893374},{"model":"Decision tree (uncalibrated)","method":"none","test_brier_score":0.21509689869870657}]}
